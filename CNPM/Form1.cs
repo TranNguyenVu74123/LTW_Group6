@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using CNPM.Models;
 using System;
+=======
+﻿using System;
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,12 +16,16 @@ namespace CNPM
 {
     public partial class Form1 : DevExpress.XtraEditors.XtraForm
     {
+<<<<<<< HEAD
         static TiemTapHoaContextDB context = new TiemTapHoaContextDB();
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         public Form1()
         {
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
             try
@@ -101,6 +109,11 @@ namespace CNPM
         private void QuenMatKhau_FormClosed(object sender, FormClosedEventArgs e)
         {
             this.Show();
+=======
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         }
     }
 }

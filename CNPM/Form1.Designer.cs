@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+<<<<<<< HEAD
             this.cbxHienThiMatKhau = new System.Windows.Forms.CheckBox();
             this.txtMatKhauu = new System.Windows.Forms.TextBox();
             this.txtTenTaiKhoan = new System.Windows.Forms.TextBox();
@@ -43,6 +44,15 @@
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+=======
+            this.btnThoat = new System.Windows.Forms.Button();
+            this.txtMatKhau = new DevExpress.XtraEditors.TextEdit();
+            this.txtTaiKhoan = new DevExpress.XtraEditors.TextEdit();
+            this.btnDangNhap = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.groupBox1.SuspendLayout();
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             ((System.ComponentModel.ISupportInitialize)(this.txtMatKhau.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtTaiKhoan.Properties)).BeginInit();
             this.SuspendLayout();
@@ -50,6 +60,7 @@
             // groupBox1
             // 
             this.groupBox1.AutoSize = true;
+<<<<<<< HEAD
             this.groupBox1.Controls.Add(this.lblQuenMatKhau);
             this.groupBox1.Controls.Add(this.cbxHienThiMatKhau);
             this.groupBox1.Controls.Add(this.pictureBox2);
@@ -57,18 +68,30 @@
             this.groupBox1.Controls.Add(this.txtMatKhauu);
             this.groupBox1.Controls.Add(this.txtTenTaiKhoan);
             this.groupBox1.Controls.Add(this.lblDangKy);
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             this.groupBox1.Controls.Add(this.btnThoat);
             this.groupBox1.Controls.Add(this.txtMatKhau);
             this.groupBox1.Controls.Add(this.txtTaiKhoan);
             this.groupBox1.Controls.Add(this.btnDangNhap);
+<<<<<<< HEAD
             this.groupBox1.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(65, 35);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(672, 399);
+=======
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Location = new System.Drawing.Point(65, 35);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(566, 297);
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             this.groupBox1.TabIndex = 8;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Đăng nhập";
             // 
+<<<<<<< HEAD
             // cbxHienThiMatKhau
             // 
             this.cbxHienThiMatKhau.AutoSize = true;
@@ -163,14 +186,29 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 18;
             this.pictureBox1.TabStop = false;
+=======
+            // btnThoat
+            // 
+            this.btnThoat.BackColor = System.Drawing.Color.LightCoral;
+            this.btnThoat.Font = new System.Drawing.Font("Tahoma", 10F);
+            this.btnThoat.Location = new System.Drawing.Point(396, 231);
+            this.btnThoat.Name = "btnThoat";
+            this.btnThoat.Size = new System.Drawing.Size(116, 29);
+            this.btnThoat.TabIndex = 14;
+            this.btnThoat.Text = "Thoát";
+            this.btnThoat.UseVisualStyleBackColor = false;
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             // 
             // txtMatKhau
             // 
             this.txtMatKhau.Location = new System.Drawing.Point(207, 163);
             this.txtMatKhau.Name = "txtMatKhau";
+<<<<<<< HEAD
             // 
             // 
             // 
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             this.txtMatKhau.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 10F);
             this.txtMatKhau.Properties.Appearance.Options.UseFont = true;
             this.txtMatKhau.Size = new System.Drawing.Size(305, 28);
@@ -180,21 +218,62 @@
             // 
             this.txtTaiKhoan.Location = new System.Drawing.Point(207, 85);
             this.txtTaiKhoan.Name = "txtTaiKhoan";
+<<<<<<< HEAD
             // 
             // 
             // 
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             this.txtTaiKhoan.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 10F);
             this.txtTaiKhoan.Properties.Appearance.Options.UseFont = true;
             this.txtTaiKhoan.Size = new System.Drawing.Size(305, 28);
             this.txtTaiKhoan.TabIndex = 11;
             // 
+<<<<<<< HEAD
+=======
+            // btnDangNhap
+            // 
+            this.btnDangNhap.BackColor = System.Drawing.Color.MediumSpringGreen;
+            this.btnDangNhap.Font = new System.Drawing.Font("Tahoma", 10F);
+            this.btnDangNhap.Location = new System.Drawing.Point(207, 231);
+            this.btnDangNhap.Name = "btnDangNhap";
+            this.btnDangNhap.Size = new System.Drawing.Size(116, 29);
+            this.btnDangNhap.TabIndex = 10;
+            this.btnDangNhap.Text = "Đăng nhập";
+            this.btnDangNhap.UseVisualStyleBackColor = false;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Tahoma", 10F);
+            this.label2.Location = new System.Drawing.Point(63, 166);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(78, 21);
+            this.label2.TabIndex = 9;
+            this.label2.Text = "Mật khẩu";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Tahoma", 10F);
+            this.label1.Location = new System.Drawing.Point(63, 88);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(121, 21);
+            this.label1.TabIndex = 8;
+            this.label1.Text = "Tên đăng nhập";
+            // 
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             // Form1
             // 
             this.Appearance.BackColor = System.Drawing.Color.White;
             this.Appearance.Options.UseBackColor = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(792, 476);
+=======
+            this.ClientSize = new System.Drawing.Size(737, 414);
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
@@ -202,8 +281,11 @@
             this.Text = "Form1";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
             ((System.ComponentModel.ISupportInitialize)(this.txtMatKhau.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtTaiKhoan.Properties)).EndInit();
             this.ResumeLayout(false);
@@ -218,6 +300,7 @@
         private DevExpress.XtraEditors.TextEdit txtMatKhau;
         private DevExpress.XtraEditors.TextEdit txtTaiKhoan;
         private System.Windows.Forms.Button btnDangNhap;
+<<<<<<< HEAD
         private System.Windows.Forms.Label lblDangKy;
         private System.Windows.Forms.TextBox txtMatKhauu;
         private System.Windows.Forms.TextBox txtTenTaiKhoan;
@@ -225,6 +308,10 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.CheckBox cbxHienThiMatKhau;
         private System.Windows.Forms.Label lblQuenMatKhau;
+=======
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
     }
 }
 

@@ -1,4 +1,4 @@
-namespace CNPM.Models
+namespace CNPM.Model1
 {
     using System;
     using System.Collections.Generic;
@@ -19,11 +19,7 @@ namespace CNPM.Models
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int MaHD { get; set; }
 
-<<<<<<< HEAD
         public DateTime? NgayLap { get; set; }
-=======
-        public DateTime NgayLap { get; set; }
->>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }

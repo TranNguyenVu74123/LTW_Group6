@@ -1,4 +1,4 @@
-namespace CNPM.Models
+namespace CNPM.Model1
 {
     using System;
     using System.Collections.Generic;
@@ -6,26 +6,34 @@ namespace CNPM.Models
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    [Table("HoaDon")]
-    public partial class HoaDon
+    [Table("HangHoa")]
+    public partial class HangHoa
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public HoaDon()
+        public HangHoa()
         {
             ChiTietHoaDons = new HashSet<ChiTietHoaDon>();
+            HangTons = new HashSet<HangTon>();
         }
 
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public int MaHD { get; set; }
+        [StringLength(50)]
+        public string MaHH { get; set; }
 
-<<<<<<< HEAD
-        public DateTime? NgayLap { get; set; }
-=======
-        public DateTime NgayLap { get; set; }
->>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
+        [StringLength(50)]
+        public string TenHH { get; set; }
+
+        [StringLength(50)]
+        public string DVT { get; set; }
+
+        public double? Gia { get; set; }
+
+        public int? SL { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }
+
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<HangTon> HangTons { get; set; }
     }
 }

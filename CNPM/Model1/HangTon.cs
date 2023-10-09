@@ -1,4 +1,4 @@
-namespace CNPM.Models
+namespace CNPM.Model1
 {
     using System;
     using System.Collections.Generic;
@@ -13,7 +13,6 @@ namespace CNPM.Models
         [StringLength(50)]
         public string MaHT { get; set; }
 
-<<<<<<< HEAD
         [StringLength(50)]
         public string TenHT { get; set; }
 
@@ -22,39 +21,16 @@ namespace CNPM.Models
 
         public double? GiaNhapHang { get; set; }
 
-        public int? SLDHT { get; set; }
+        public int? SLHT { get; set; }
 
         [StringLength(50)]
         public string MaHH { get; set; }
 
-=======
-        [Required]
-        [StringLength(50)]
-        public string TenHT { get; set; }
-
-        [Required]
-        [StringLength(50)]
-        public string DVT { get; set; }
-
-        public double GiaNhapHang { get; set; }
-
-        public int SLT { get; set; }
-
-        [Required]
-        [StringLength(50)]
-        public string MaHH { get; set; }
-
-        [Required]
->>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         [StringLength(50)]
         public string MaNCC { get; set; }
 
         public virtual HangHoa HangHoa { get; set; }
 
-<<<<<<< HEAD
-        public virtual NhaCungCap NhaCungCap { get; set; }
-=======
         public virtual NhaCungCap1 NhaCungCap { get; set; }
->>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
     }
 }

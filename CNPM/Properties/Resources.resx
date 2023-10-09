@@ -142,9 +142,12 @@
   <data name="nuoc-lau-nha-gift-ylang-1l" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nuoc-lau-nha-gift-ylang-1l.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="giphy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\giphy.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   <data name="302225145" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\302225145.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -157,9 +160,12 @@
   <data name="keo-trai-cay-855" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\keo-trai-cay-855.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="nest_forgot_password_dribbble" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nest_forgot_password_dribbble.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   <data name="420590645" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\420590645.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -172,6 +178,7 @@
   <data name="1024px-OOjs_UI_icon_add.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1024px-OOjs_UI_icon_add.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="png-clipart-computer-icons-report-daily-use-miscellaneous-anglejhj" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-clipart-computer-icons-report-daily-use-miscellaneous-anglejhj.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -180,25 +187,41 @@
   </data>
   <data name="4205906" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4205906.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="1024px-Search_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1024px-Search_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bich-35-goi--2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bich-35-goi--2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   </data>
   <data name="cozy-tra-xanh" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cozy-tra-xanh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="profile-icon-login-head-icon-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\profile-icon-login-head-icon-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="4205906" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4205906.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   </data>
   <data name="Gia-vi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Gia-vi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="Bich-35-goi--2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bich-35-goi--2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   <data name="024832980" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\024832980.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Combo-42" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Combo-42.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="password-76" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\password-76.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -208,6 +231,8 @@
   <data name="pngtree-lock-password-icon-vectors-png-image_17380501" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-lock-password-icon-vectors-png-image_17380501.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   <data name="Sting-strawberry-drink-soft1-768x768" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sting-strawberry-drink-soft1-768x768.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -223,9 +248,12 @@
   <data name="310fb84328d498214b709ffba06669ac" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\310fb84328d498214b709ffba06669ac.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="1000_F_202939931_iHgLHxeBiSgNHbPvCSCdEEEtl391oRLM" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1000_F_202939931_iHgLHxeBiSgNHbPvCSCdEEEtl391oRLM.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   <data name="Combo-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Combo-4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -238,6 +266,7 @@
   <data name="1024px-Search_Icon.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1024px-Search_Icon.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="mail-download1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mail-download1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -249,5 +278,12 @@
   </data>
   <data name="huong-dan-cach-thay-doi-mat-khau-gmail-nhanh-chong-don-gian-14" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\huong-dan-cach-thay-doi-mat-khau-gmail-nhanh-chong-don-gian-14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="Lay chips" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lay chips.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-computer-icons-report-daily-use-miscellaneous-anglejhj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-computer-icons-report-daily-use-miscellaneous-anglejhj.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
   </data>
 </root>

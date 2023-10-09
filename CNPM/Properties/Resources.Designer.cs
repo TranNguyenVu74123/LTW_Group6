@@ -93,6 +93,7 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap _1000_F_202939931_iHgLHxeBiSgNHbPvCSCdEEEtl391oRLM {
             get {
                 object obj = ResourceManager.GetObject("1000_F_202939931_iHgLHxeBiSgNHbPvCSCdEEEtl391oRLM", resourceCulture);
@@ -103,6 +104,8 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         internal static System.Drawing.Bitmap _1024px_OOjs_UI_icon_add {
             get {
                 object obj = ResourceManager.GetObject("1024px-OOjs_UI_icon_add", resourceCulture);
@@ -333,6 +336,7 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap giphy {
             get {
                 object obj = ResourceManager.GetObject("giphy", resourceCulture);
@@ -353,6 +357,8 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         internal static System.Drawing.Bitmap keo_trai_cay_855 {
             get {
                 object obj = ResourceManager.GetObject("keo-trai-cay-855", resourceCulture);
@@ -384,6 +390,7 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap mail_download {
             get {
                 object obj = ResourceManager.GetObject("mail-download", resourceCulture);
@@ -414,6 +421,8 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         internal static System.Drawing.Bitmap nuoc_lau_nha_gift_ylang_1l {
             get {
                 object obj = ResourceManager.GetObject("nuoc-lau-nha-gift-ylang-1l", resourceCulture);
@@ -424,6 +433,7 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap password_76 {
             get {
                 object obj = ResourceManager.GetObject("password-76", resourceCulture);
@@ -434,6 +444,8 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         internal static System.Drawing.Bitmap png_clipart_computer_icons_report_daily_use_miscellaneous_angle {
             get {
                 object obj = ResourceManager.GetObject("png-clipart-computer-icons-report-daily-use-miscellaneous-angle", resourceCulture);
@@ -454,6 +466,7 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap pngtree_lock_password_icon_vectors_png_image_1738050 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-lock-password-icon-vectors-png-image_1738050", resourceCulture);
@@ -474,6 +487,8 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         internal static System.Drawing.Bitmap Poca_BBQ_Snack_42g_x_80_Bags_3_768x768 {
             get {
                 object obj = ResourceManager.GetObject("Poca-BBQ-Snack-42g-x-80-Bags-3-768x768", resourceCulture);
@@ -484,6 +499,7 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap profile_icon_login_head_icon_vector {
             get {
                 object obj = ResourceManager.GetObject("profile-icon-login-head-icon-vector", resourceCulture);
@@ -494,6 +510,8 @@ namespace CNPM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
         internal static System.Drawing.Bitmap Sting_strawberry_drink_soft1_768x768 {
             get {
                 object obj = ResourceManager.GetObject("Sting-strawberry-drink-soft1-768x768", resourceCulture);

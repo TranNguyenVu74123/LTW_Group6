@@ -20,6 +20,7 @@ namespace CNPM.Models
         [StringLength(50)]
         public string MaHH { get; set; }
 
+<<<<<<< HEAD
         [StringLength(50)]
         public string TenHH { get; set; }
 
@@ -29,6 +30,19 @@ namespace CNPM.Models
         public double? Gia { get; set; }
 
         public int? SL { get; set; }
+=======
+        [Required]
+        [StringLength(50)]
+        public string TenHH { get; set; }
+
+        [Required]
+        [StringLength(50)]
+        public string DVT { get; set; }
+
+        public double Gia { get; set; }
+
+        public int SL { get; set; }
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }
