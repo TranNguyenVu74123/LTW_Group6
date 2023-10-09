@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System">
+      <section name="DevExpress.LookAndFeel.Design.AppSettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <applicationSettings>
+    <DevExpress.LookAndFeel.Design.AppSettings>
+      <setting name="DPIAwarenessMode" serializeAs="String">
+        <value>System</value>
+      </setting>
+      <setting name="RegisterBonusSkins" serializeAs="String">
+        <value>True</value>
+      </setting>
+    </DevExpress.LookAndFeel.Design.AppSettings>
+  </applicationSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8" />
+  </startup>
+<<<<<<< HEAD
+<connectionStrings><add name="TiemTapHoaContextDB" connectionString="data source=MSI\NGUYENVU;initial catalog=ACCOUNT;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /><add name="QuanLyTiemTapHoaContextDB" connectionString="data source=MSI\NGUYENVU;initial catalog=QuanLyTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /></connectionStrings></configuration>
+=======
+<connectionStrings><add name="QLTapHoaModels" connectionString="data source=DESKTOP-V3D91B0;initial catalog=QLTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /><add name="Model1" connectionString="data source=DESKTOP-N41I626\MSSQLSERVER01;initial catalog=QLTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /><add name="Model11" connectionString="data source=DESKTOP-N41I626\MSSQLSERVER01;initial catalog=QLTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /><add name="Model12" connectionString="data source=DESKTOP-N41I626\MSSQLSERVER01;initial catalog=QLTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /><add name="Model13" connectionString="data source=DESKTOP-N41I626\MSSQLSERVER01;initial catalog=QuanLyTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /><add name="Model14" connectionString="data source=DESKTOP-N41I626\MSSQLSERVER01;initial catalog=QuanLyTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /><add name="Model15" connectionString="data source=DESKTOP-N41I626\MSSQLSERVER01;initial catalog=QLTapHoa;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" /></connectionStrings></configuration>
+>>>>>>> 75f0c27dec2f7ddd1064c30c9c7fa0f52557fa47
