@@ -25,6 +25,19 @@ namespace CNPM
             this.Close();
         }
 
+         private bool EmailHopLe(string email)
+        {
+            try
+            {
+                var addr = new System.Net.Mail.MailAddress(email);
+                return addr.Address == email;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
         private void btnTaoTaiKhoan_Click(object sender, EventArgs e)
         {
             try
