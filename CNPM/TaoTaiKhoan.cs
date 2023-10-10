@@ -40,7 +40,7 @@ namespace CNPM
 
         private void btnTaoTaiKhoan_Click(object sender, EventArgs e)
         {
-            try
+             try
             {
                 // Lấy thông tin từ các textbox
                 string tenDangNhap = txtTenDangNhap.Text;
@@ -61,6 +61,14 @@ namespace CNPM
                     MessageBox.Show("Mật khẩu và nhập lại mật khẩu không khớp. Vui lòng kiểm tra lại.");
                     return;
                 }
+
+                // Kiểm tra xem email có đúng định dạng không (có chứa dấu @ và tên miền)
+                if (!EmailHopLe(email))
+                {
+                    MessageBox.Show("Email không hợp lệ. Vui lòng kiểm tra lại.");
+                    return;
+                }
+
 
                 // Kiểm tra xem tên đăng nhập đã tồn tại trong cơ sở dữ liệu chưa
                 if (context.TaiKhoans.Any(tk => tk.TenDangNhap == tenDangNhap))
@@ -101,7 +109,7 @@ namespace CNPM
                 // Đóng form tạo tài khoản sau khi tạo thành công
                 this.Close();
             }
-            catch (Exception) 
+            catch (Exception ex) 
             {
                 MessageBox.Show("Đã xảy ra lỗi trong quá trình tạo tài khoản. Vui lòng thử lại sau.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
